@@ -27,6 +27,7 @@ Tent class
   Each tent:
     has a know capacity for brownies
     will be populated with brownies up to that capacity
+    will have a happiness score determined by the brownie combinations that it comprises
     
 Camp class
   Has a list of tent objects
