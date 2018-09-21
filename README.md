@@ -6,7 +6,7 @@ Brownie pseudocode:
 
 Information input:
   Each brownie names up to three people (in order) that she wishes to share with
-  The camp organiser can indicate if there are brownie pairings or groupings that are disallowed
+  The camp organiser can indicate if therje are brownie pairings or groupings that are disallowed
 
 
 Brownie class:
