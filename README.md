@@ -15,12 +15,12 @@ Brownie class:
     private: a list of up to three other brownies she would wish to pair with (obtained from input)
     private: a popularity score calculated according to how many brownies like them
   
-Brownie instantiator function:
-  from file instantiates brownie with name and list of friends (populariry remains null)
+Brownie instantiator method:
+  Generates a list of brownies, each with a name and list of friends (popularity remains null)
   thus has a list of brownies 
 
 
-Temt_filler class
+Temt_filler method
   fills tents with browmies according a rule basd oon their attributes e.g. popularity
 
 Tent class
@@ -31,7 +31,9 @@ Tent class
     
 Camp class
   Has a list of tent objects
-  Each (theore
+  It will end up with tents filled with brownies
+  the camp class will be able to return the total happiness score (sum of tent happiness scores)
+  it will also be able to return a hashmap of tent object keys and happiness score values
   
    
 Brownies class store string array of friends (array)
