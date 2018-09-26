@@ -17,7 +17,7 @@ public class MyClass {
 		
 		Alexie.sayHello();
 		System.out.println("My friend is "+Alexie_friends[0]);
-		
+		h
 		
 	}
 }
