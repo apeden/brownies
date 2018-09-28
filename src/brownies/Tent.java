@@ -1,5 +1,5 @@
 package brownies;
 
-public class tents {
+public class Tent{
 
 }
