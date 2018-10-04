@@ -12,11 +12,7 @@ package brownies;
 
 public class Camp_organiser {
 
-	private = 
-			
-	Camp_organiser() {
-		private HashMap 
-		
+					
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
